@@ -1,7 +1,3 @@
-# prova
-
-## questo è un progetto di prova
-
 # Sono Marco Penza,
 
 ## Esperienze formative:
